@@ -179,7 +179,7 @@
 ---
 
 ## product design
-### "what should the app *do*?""
+### "what should the app *do*?"
 
 ^ The first step in making an app involves product design.
 
@@ -216,7 +216,7 @@
 ---
 
 ## interaction design
-### "how should the app be *used*?""
+### "how should the app be *used*?"
 
 ^ The next step you'll encounter is interaction design.
 
