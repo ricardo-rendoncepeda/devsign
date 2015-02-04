@@ -39,7 +39,7 @@
 > **the way something actually works**. 
 -- Jony Ive
 
-^ In its place Jony introduced a new "flat" style focused on clarity, deference, and depth. He explained it like this:
+^ In its place Jony introduced a new "flat" style focused on clarity, deference, and usability. He explained it like this:
 
 ^ "We have always thought of design as being so much more than **the way something looks**. It's the whole thing, **the way something actually works**." - Jony Ive
 
@@ -56,7 +56,9 @@
 
 ---
 
-## adding leather/wood ≠ important
+## adding leather/wood
+## ≠ 
+## important
 
 ^ And then after that specific keynote, just like that, none of that matters anymore. The *leather and wood are gone* and we're told that design is not just about the way something looks. 
 
@@ -64,7 +66,9 @@
 
 ---
 
-## making things work = important
+## making things work 
+## = 
+## important
 
 ^ Even better, I was told that design encompasses the way something actually works. 
 
@@ -78,21 +82,17 @@
 
 ^ So after that keynote by Jonny Ive, I had a true lightbulb moment.
 
-^ I realized that if my skills at making things work are essential to an app's design, then I want to make my apps work *really well*, even if I have to dip just a little bit into what's traditionally considered design territory.
-
----
-
-### and I hope you do too
+^ I realized that if my skills at making things work are essential to an app's design, then I realy want to be involved in app design.
 
 ^ And I hope you do too.
 
 ---
 
-## devsign
-## =
 ## design-centric development
+## =
+## devsign
 
-^ The aim of this talk is to encourage you to become a design-centric developer, with the ability to shape your app's design as it's being developed. 
+^ The aim of this talk is to encourage you to become a design-centric developer, with the ability to shape your app's design as it's being developed and help out with part of the process.
 
 ^ The ability to devsign is becoming increasingly important as software production moves from staged waterfall models to collaborative agile ones. 
 
@@ -105,7 +105,7 @@
 
 ^ Designers and developers are usually seen as polar opposites: Right-brain vs Left-brain. However, there are many similarities between us like being analytical, solving problems, loving coffee, and hating glare.
 
-^ I could list many more, believe it or not, but the one that truly matters and can mend any differences is this: designers and developers are both passionate about making great apps. 
+^ I could list many more, but the one that truly matters and can mend any differences is this: designers and developers are both passionate about making great apps. 
 
 ^ We will push and pull on each other in equal measure because creating an app is not an entirely linear handoff process until it ships, it's an interwoven journey that you must embark upon as a cohesive unit. 
 
@@ -115,13 +115,9 @@
 
 ### design will create new *demands* for development
 
-^ *design will create new demands for development,* 
-
 ---
 
 ### development will reveal *gaps* in design
-
-^ *and development will reveal gaps in design*
 
 ---
 
@@ -166,15 +162,15 @@
 ![left 50%](Images/PokerFace.png)
 ## "... say what?"
 
-^ For each of these, I will offer a basic definition and simplified overview, along with a few tips on how, as a developer, you can influence key design decisions at each stage of app production. 
+^ These may seem like just a bunch of buzzwords to you right now and that's just fine.
 
-^ In general, these disciplines flow into one another in the order above, but are all present during the full product lifecycle. 
+^ For each of these, I will offer a basic definition and simplified overview, along with a few tips on how, as a developer, you can influence key design decisions at each stage of app production and maybe help out a bit too. 
 
-^ More importantly, your ability to influence the overall production cycle depends on the size and structure of your organization. 
+^ However, your ability to influence the overall production cycle depends on the size and structure of your organization. 
 
 ^ For those of you at small startups or indie studios, the ability to juggle many tasks might make or break a product. 
 
-^ For those of you that are part of larger teams in a more corporate environment, the ability to work with several departments will make life much easier!
+^ For those of you that are part of larger teams in a more corporate environment, the ability to work with several departments may not be necessary but it will make life much easier!
 
 ---
 
@@ -194,13 +190,14 @@
 ![inline](Images/CrittercismTweet.png)
 
 ![inline](Images/HealthKit.png)![inline](Images/WatchKit.png)![inline](Images/CloudKit.png)
-![inline](Images/Handoff.png)![inline](Images/Extensions.png)![inline](Images/Metal.png)
 
-^ To start with, you can... constantly read about your industry, take a larger interest in your competitors, investigate cross-product collaboration, look ahead to emerging technologies/trends.
+^ I became interested in product design by simply reading about the business-side of apps. What was the industry trending towards, what are my competitors up to, and what are the emerging technologies in the field?
 
-^ As you gain experience, you should... try to integrate new APIs into existing features, or think of new features altogether, then pitch them to your team.
+^ Eventually, I was constantly thinking of new features and the APIs I could use to make them possible. Sharing them with friends and co-workers was great too, because I could get an immediate "well that's stupid" or "wow that's awesome" and discuss my ideas.
 
-^ Once you've mastered this stage, you can expect to... participate in sales pitches or budget discussions, help scope out a new project, inform decision on adding/dropping a feature based on your technical expertise.
+^ Doing this several times meant I was more comfortable participating in sales pitches or project scoping, and was greatly appreciated in key decisions on adding/dropping a feature based on my technical expertise.
+
+^ Though I never fully acted as a product designer, I could certainly help make sense of a product as it was being developed.
 
 ---
 ![inline 67%](Images/IndieBad.jpg)![inline](Images/IndieGood.jpg)
@@ -232,11 +229,13 @@
 
 ![inline](Images/Feedback.png)
 
-^ For starters... stick to iOS platform patterns, get comfortable with all view controllers, segues, and actionable components.
+^ Once I got past the big scary words and upscale methodologies, I realized that participating in interaction design was easy if I just stuck to iOS platform patterns and got really comfortable wth view controllers, segues, and actionable components.
 
-^ When you feel more confortable, you can then... engage in rapid prototyping and analyze the advantages/disadvantages of different navigation solutions, such as Navigation Controller, Tab Bar Controller, and Page View Controller.
+^ Once I could build a storyboard with ease, I was able to engage in rapid prototyping and analyze the advantages/disadvantages of different navigation solutions, such as Tab Bar Controller -vs- Page View Controller.
 
-^ And if all that is too easy, you can try to... define the navigation hierarchy, UI components, and gesture recognizers; potentially redefine a complex interaction with a simple custom control.
+^ And really, as I was putting designs together and trying to make something work, I would let my iOS dev expertise come through and redefine the navigation hierarchy if it was breaking norms, modify UI components to make more sense, and experiment with different gesture recognizers.
+
+^ Turns out, interaction design was a big part of my day-to-day.
 
 ---
 
@@ -244,17 +243,15 @@
 
 ![inline](Images/HumanInterfaceGuidelines.jpeg)
 
-^ At this point I imagine many of you, specially the indie devs, are thinking "If this is Interaction Design, then I'm definitely an Interaction Designer!"... and this is certainly true to a large degree.
+^ So at this point I imagine many of you, specially the indie devs, are thinking "If this is Interaction Design, then I'm definitely an Interaction Designer!"... and this is certainly true to a large degree.
 
 ^ For iOS developers at least.
 
 ^ Thanks to Apple's Human Interface Guidelines, UIKit, and their tightly controlled ecosystem, we can put our trust in well-defined platform patterns and user expectations.
 
-^ However, if you come from old-school desktop development, the wild wild web, or other mobile platforms, you'll know that interaction design can be very complex, largely decentralized, and definitely needs a lot more thought. Sometimes it's total anarchy. It's not always a given and that's where we need the pros. 
+^ However, if you come from old-school desktop development or the wild wild web, you'll know that interaction design can be very complex, largely decentralized, and definitely needs a lot more thought. It's not always a given and that's where we need the pros. 
 
-^ Not all problems are created equally though, so make sure your app stands out by solving these problems in an easy way; not by making more along the way.
-
-^ And if you really think Apple made it too easy for you, try to dive into *information architecture* for an added challenge :]
+^ Not all problems are created equally though, so make sure your app stands out by solving these problems in an easy way; not by making more along the way. Apple made it easy, but not dispensable.
 
 ---
 
@@ -265,7 +262,7 @@
 
 ^ In this stage, you want to figure out *how the app should look*.
 
-^ This is the time to think about the best presentation of your UI as well as the best representation of its purpose. These are actually two different things that seek a single solution, because the prettiest option may not always be the most adequate one.
+^ This is the time to think about the best presentation of your UI as well as the best representation of its purpose.
 
 ^ It's a great time to think about your brand and make sure that the look and feel of your app fits in well with your company's metaphors and customer's emotions. Your choice in color, typography, and layout can really sway a user's review.
 
@@ -273,12 +270,13 @@
 
 ![inline](Images/MengTweet.png)
 
-^ You can ease into visual design by getting comfortable within the confines of Xcode, by... turning on canvas rectangles in Interface Builder, using storyboards extensively, and mastering live rendering.
+^ When people hear "design", they usually think of "visual design" and can get scared off because of the technical skill and tool mastery it requires. However, I was able to participate in the process by simply getting to know the more visual-side of Xcode, with features such as canvas rectangles in Interface Builder and the all-new live rendering.
 
-^ Kick it up a notch by... slicing assets, modifying their color, managing typefaces.
+^ Xcode can only do so much though, so I began to meet designers half-way and try to handle some of their more menial tasks which I actually found quite exciting. I barely know my way around Illustrator, but with a few basic commands I'm able to take a raw file and slice icons, modify their color, and adjust their size.
 
-^ Finally, those wishing to make "the leap" into graphic design can... make your own visuals, choose action icons, create a launch image, define a color palette.
+^ Eventually, your skills and interest will grow if you just commit a little bit of your day to these tools and follow good tutorials, much like you would on RayWenderlich.com. 
 
+^ I'm still very new to the field, but I'm hoping to make "the leap" some time and whenever I can I try to choose my own color palettes, mess around with different layouts, and even make some of my own icons.
 
 ---
 
@@ -323,7 +321,6 @@
 # iOS .ipa ≠ 
 ![right 100%](Images/IPA.jpg)
 
-
 ^ But, they can definitely use an .ipa. 
 
 ^ As mentioned in the beginning, developers have the ability to make something that works and we can ship it too - no matter how ugly it looks, how hard it is to use, or how badly it performs in the app store.
@@ -350,61 +347,55 @@
 
 ---
 
-# ux = home
+## ux 
+## = 
+## home
 
 ^ UX is your home. Indie or Big. Seasoned or New. This is what you do day-in and day-out, though you might not have realized it :]
 
 ---
 
-### p + dev 
-### =
-### tangible ideas
+## p + dev 
+## =
+## tangible ideas
 
-^ P + Dev = Tangible ideas
 ^ Able to validate feasibility of new features
 
 ---
 
-### i + dev
-### =
-### quick prototypes
+## i + dev
+## =
+## quick prototypes
 
-^ I + Dev = Quick prototypes
 ^ Can compare several solutions with ease
 
 ---
 
-### v + dev
-### =
-### beautiful interfaces
+## v + dev
+## =
+## beautiful interfaces
 
-^ V + Dev = Beautiful interfaces
 ^ Whatever you make will look amazing
 
 ---
 
-### p + i + v + dev
-### =
-### app
+## p + i + v + dev
+## =
+## app
 
-^ P + I + V + Dev = App
 ^ You're in the App Store
 
 ---
 
-### bad ux * (p + i + v + dev)
-### =
-### bad app :[
-
-^ Bad UX * (P + I + V + Dev) = Bad App :[
+## bad ux * (p + i + v + dev)
+## =
+## bad app :[
 
 ---
 
-### good ux * (p + i + v + dev)
-### =
-### good app :]
-
-^ Good UX * (P + I + V + Dev) = Good App :]
+## good ux * (p + i + v + dev)
+## =
+## good app :]
 
 ---
 
@@ -419,8 +410,4 @@
 
 ^ The lines between design and development have never been easier to cross.
 
-^ Keep honing your developer craft, but take interest in design too - they are so intertwined.
-
-^ As you do this and begin to tackle some design challenges, you'll realize that developers can be just as creative as designers. 
-
-^ I encourage you to use this opportunity to make your app something that you can be really proud of, on many different levels.
+^ Keep honing your developer craft, but take interest in design too - it's not that scary.
